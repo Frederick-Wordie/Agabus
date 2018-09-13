@@ -1,0 +1,7 @@
+spring:
+  datasource:
+    url: jdbc:hsqldb:mem:.
+    username: sa
+    driver-class-name: org.hsqldb.jdbcDriver
+    hikari:
+      connection-test-query: SELECT 1 FROM INFORMATION_SCHEMA.SYSTEM_USERS

@@ -1,0 +1,5 @@
+linkid;linkname;ipaddress;linkupdown;description
+1;Google;google.com;up;Google servers
+2; Facebook;facebook.com;up;Facebook servers
+3; Julius Krah website;juliuskrah.com;down;Julius krah website
+4; Bit world center;104.27.167.242;down;bit world center website

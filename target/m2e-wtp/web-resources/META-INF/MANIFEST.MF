@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: Agabus
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: frederickwo
+Implementation-Vendor-Id: com.frederickwordie
+Build-Jdk: 1.8.0_121
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/Agabus
+Created-By: Maven Integration for Eclipse
+
